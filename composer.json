@@ -15,7 +15,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Vendor\\PollUrlInput\\PollUrlInputServiceProvider"
+                "Voxsar\\PollUrlInput\\PollUrlInputServiceProvider"
             ]
         }
     },
