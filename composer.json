@@ -18,5 +18,7 @@
                 "Vendor\\PollUrlInput\\PollUrlInputServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
