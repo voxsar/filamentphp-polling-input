@@ -1,5 +1,5 @@
 {
-    "name": "vendor/poll-url-input",
+    "name": "voxsar/poll-url-input",
     "description": "A Filament custom input that polls a URL and updates its value.",
     "type": "library",
     "autoload": {
