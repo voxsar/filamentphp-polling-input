@@ -1,6 +1,6 @@
 <?php
 
-namespace Vendor\PollUrlInput;
+namespace Voxsar\PollUrlInput;
 
 use Illuminate\Support\ServiceProvider;
 use Filament\Forms\Components\Component;

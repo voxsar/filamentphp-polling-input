@@ -1,6 +1,6 @@
 <?php
 
-namespace Vendor\PollUrlInput\Components;
+namespace Voxsar\PollUrlInput\Components;
 
 use Filament\Forms\Components\Field;
 
